@@ -1,4 +1,4 @@
-# Hi, I'm Kabir! 👋
+# Hi, I'm Masoom Prince! 👋
 
 I'm a Discord Bot Developer and here is mine Discord Music Bot
 
@@ -68,7 +68,7 @@ GUILD_ID=
 
 ## Music Bot Dashboard Setup
 
-[Click Here](https://github.com/kabirsingh2004/JUGNU-Dashboard/blob/main/README.md)
+[Click Here](https://discord.gg/9SrVFGcgut)
 
 ## Feedback
 
